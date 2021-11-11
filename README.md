@@ -2,3 +2,4 @@
 * home  主页站
 * blog  博客站
 * naviagtion 导航站
+* apiauto APIJSON接口测试
